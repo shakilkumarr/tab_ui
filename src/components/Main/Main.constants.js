@@ -1,0 +1,15 @@
+export const CONTENT_1 = `Customer content is some of the most sought after information from prospects to gauge the quality of your product and services, as well as the fit with their own organization.
+One of the easiest ways to build credibility is by displaying your customer logos on your website.  This offers easy visual brand recognition but also lets a prospect know right away what other type businesses or organizations are using the software (and how similar to his own company they are).
+website uses customer generated video to include even more useful praise for their solution!  These testimonials cover good ground on the software as each is organized around main benefit areas for prospects.  What is more believable than seeing and hearing from the actual mouths of customers!?
+Similarly, if you have quality reviews on third party channels and review sites, don’t just leave them there; leverage them on your own website as well.  If the channel offers a badge, you can integrate it into the design of your website like the example below.  This can increase the percent of prospects that are exposed to quality feedback on your product.
+If you have strong user rankings in certain areas on a third party survey page, you can take advantage of this by displaying that content prominently on the website.  HubSpot puts these user rankings to work by creating design icons and copy on their website and then linking back to the third party website where those data points are supported.  Similarly, Capterra ranks Top Reviewed Software Companies for each category so you can translate your ranking into copy and design that toots your own horn.
+A customer success story or case study can give great insight into what pain points other companies were seeing and how your software tackled those and offered measurable results.
+In the Infusionsoft example below, as in previous designs, this software company displays great images of the customers themselves.  The headline of this section makes it clear that small businesses will see success with their software.  For other small businesses, this will resonate right away before a prospect even clicks through to the actual story.  They also pull targeted and creative benefits-focused copy right below the images that gets to the heart of each business owner’s success with the tool.
+Have you been ranked by a credible third party source?  Display that on your website.
+In the below example, Wintac software was ranked number one in Capterra’s Field Service Software Infographic .  They complement their bold header statement with an image certificate that links to the third party rankings.  Superlative statements can be easily overlooked and seen as less impactful or ‘fillers’ unless there are valid metrics or sources to back them up.  In this case, the data empowers the copy and gives more weight than something strictly vendor-generated.`;
+
+export const TABS = [
+  { id : 'tab1', name: 'Tab 1'},
+  { id : 'tab2', name: 'Tab 2'},
+  { id : 'tab3', name: 'Tab 3'},
+];

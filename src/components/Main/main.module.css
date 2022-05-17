@@ -1,0 +1,51 @@
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+}
+
+.header {
+  height: 4rem;
+  box-shadow: 1px 1px 1px #aaa;
+  position: sticky;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  flex-basis: 10%;
+  cursor: pointer;
+}
+
+.body {
+  height: calc(100% - 20rem);
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;;
+}
+
+.content {
+  padding: 1.2rem;
+}
+
+.content:nth-child(even) {
+  background: #f1f0f0;
+}
+
+.tab {
+  padding-right: 4rem;
+  cursor: pointer;
+}
+
+.active {
+  color: #40a9ff;
+}
+
+.tabContainer {
+  display: flex;
+  flex-basis: 90%;
+  /* justify-self: flex-end; */
+  /* justify-content: space-between; */
+}
